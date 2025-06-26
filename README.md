@@ -11,6 +11,6 @@ This project uses Natural Language Processing (NLP) and Machine Learning to clas
 - Python, Pandas, NLTK, Scikit-learn
 - TF-IDF Vectorizer
 - Logistic Regression
-
+- 
 ## Result
 Achieved accurate classification of fake vs real news using simple text processing and ML.
